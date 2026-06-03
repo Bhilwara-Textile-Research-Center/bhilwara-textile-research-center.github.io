@@ -9,17 +9,16 @@ https://bhilwara-textile-research-center.github.io/
 ## Website Preview
 
 ### Home Page
-
 ![Home Page](screenshots/home.png)
 
-### Services Page
+### About Page
+![About Page](screenshots/about.png)
 
-![Services](screenshots/services.png)
+### Services Page
+![Services Page](screenshots/services.png)
 
 ### Contact Page
-
-![Contact](screenshots/contact.png)
-
+![Contact Page](screenshots/contact.png)
 
 ## Features
 
