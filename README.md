@@ -6,6 +6,21 @@ Official website developed for **Bhilwara Textile Research Center (BTRC)** to pr
 
 https://bhilwara-textile-research-center.github.io/
 
+## Website Preview
+
+### Home Page
+
+![Home Page](screenshots/home page.png)
+
+### Services Page
+
+![Services](screenshots/services.png)
+
+### Contact Page
+
+![Contact](screenshots/contact.png)
+
+
 ## Features
 
 * Professional multi-page responsive website
