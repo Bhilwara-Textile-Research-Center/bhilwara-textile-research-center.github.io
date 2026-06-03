@@ -11,7 +11,7 @@ https://bhilwara-textile-research-center.github.io/
 ### Home Page
 
 ![Home Page](saved Pictures/home page.png)
-)
+
 
 ### Services Page
 
