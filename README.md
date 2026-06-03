@@ -10,7 +10,7 @@ https://bhilwara-textile-research-center.github.io/
 
 ### Home Page
 
-![Home Page](<img width="1366" height="728" alt="home page" src="https://github.com/user-attachments/assets/13f6cc40-79e3-41c1-9430-82cb23076f46" />
+![Home Page](saved Pictures/home page.png)
 )
 
 ### Services Page
