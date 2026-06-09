@@ -15,10 +15,10 @@ https://bhilwara-textile-research-center.github.io/
 ![About Page](screenshots/about.png)
 
 ### Services Page
-![Services Page](screenshots/services-page.png)
+![Services Page](screenshots/services.png)
 
 ### Contact Page
-![Contact Page](screenshots/contact-page.png)
+![Contact Page](screenshots/contact.png)
 
 ## Features
 
