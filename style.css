@@ -1226,14 +1226,6 @@ iframe {
     }
 }
 
-.about-logo .about-logo-img {
-    width: 900px;
-    max-width: 300px;
-    display: block;
-    margin: 0 auto;
-    margin-bottom: 0px;
-}
-
 .stats-card {
     max-width: 650px;
     margin: 0 auto;
@@ -1271,7 +1263,10 @@ iframe {
 }
 
 .stats-section h3 {
-    color: var(--blue);
-    margin-bottom: 34px;
+    margin-bottom: 20px;
     text-align: center;
+    font-size:2.2rem;
+    font-weight:700;
+    color:var(--blue);
 }
+
